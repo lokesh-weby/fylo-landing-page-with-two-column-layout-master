@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.second{
+    background:linear-gradient(90deg,transparent,#f8f8fe) ;
+    background-image:
+       url("../images/bg-curve-mobile.svg");
+
+    background-size: cover;
+    background-position: bottom center, 50%, 50%;
+}
+.info{
+    color: #3da08f;
+}
+.card{
+    background-color: white;
+    /* max-width:400px; */
+    padding: 2rem  1.5rem;
+}
+.footer-1{
+    background-color: #575989;
+}
