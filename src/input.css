@@ -5,7 +5,7 @@
 .second{
     background:linear-gradient(90deg,transparent,#f8f8fe) ;
     background-image:
-       url("../images/bg-curve-mobile.svg");
+       url("images/bg-curve-mobile.svg");
 
     background-size: cover;
     background-position: bottom center, 50%, 50%;
